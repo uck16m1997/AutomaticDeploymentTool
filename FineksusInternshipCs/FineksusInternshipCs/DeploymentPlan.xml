@@ -1,0 +1,20 @@
+<DeploymentPlan>
+    <Item Type="File" Order="1">
+        <SourcePath Location="/Files/File"/>
+        <DestinationPath Location="/Target/File"/>
+    </Item>
+    <Item Type="WindowsService" Order="2">
+        <SourcePath Location="/Files/WinService"/>
+
+        <Username>Umut</Username>
+        <Password Encrypted="False">12345</Password>
+    </Item>
+    <Item Type="MSSQL" Order="3">
+
+        <Server>Localhost</Server>
+        <Port>80</Port>
+        <Username>Umut</Username>
+        <Password Encrypted="False">12345</Password>
+        <DBName>PayGateSetupToolDB</DBName>
+    </Item>
+</DeploymentPlan>

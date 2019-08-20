@@ -1,0 +1,21 @@
+<DeploymentPlan>
+    <Item Type='File'    Order="1">
+        <SourcePath Location="C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Files\File"/>
+        <DestinationPath Location="C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Target\File"/>
+    </Item>
+    <Item Type="WindowsService" Order="2">
+        <SourcePath Location="C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Target\File\PayGateTestService.exe"/>      
+        <Username>Umut</Username>
+        <Password Encrypted="False">12345</Password>
+    </Item>
+    <Item Type="MSSQL" Order="3">]
+        <SourcePath Location="C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Target\File\testService.sql"/>      
+        <Server>Localhost</Server>
+        <Port>1433</Port>
+        <Username>Umut</Username>
+        <Password Encrypted="False">12345</Password>
+        <DBName>PayGateSetupToolDB</DBName>
+    </Item>
+    <Item>
+    <Item>
+</DeploymentPlan>

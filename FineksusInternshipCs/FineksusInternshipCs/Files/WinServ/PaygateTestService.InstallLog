@@ -1,0 +1,64 @@
+﻿Installing assembly 'C:\Program Files\Paygate\TestService\PaygateTestService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Program Files\Paygate\TestService\PaygateTestService.InstallLog
+   assemblypath = C:\Program Files\Paygate\TestService\PaygateTestService.exe
+   logtoconsole = 
+Committing assembly 'C:\Program Files\Paygate\TestService\PaygateTestService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Program Files\Paygate\TestService\PaygateTestService.InstallLog
+   assemblypath = C:\Program Files\Paygate\TestService\PaygateTestService.exe
+   logtoconsole = 
+Installing assembly 'C:\Program Files\Paygate\TestService\PaygateTestService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Program Files\Paygate\TestService\PaygateTestService.InstallLog
+   assemblypath = C:\Program Files\Paygate\TestService\PaygateTestService.exe
+   logtoconsole = 
+Installing service PaygateTestService...
+Service PaygateTestService has been successfully installed.
+Creating EventLog source PaygateTestService in log Application...
+Committing assembly 'C:\Program Files\Paygate\TestService\PaygateTestService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Program Files\Paygate\TestService\PaygateTestService.InstallLog
+   assemblypath = C:\Program Files\Paygate\TestService\PaygateTestService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Files\File\PaygateTestService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Files\File\PaygateTestService.InstallLog
+   assemblypath = C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Files\File\PaygateTestService.exe
+Installing service PaygateTestService...
+Service PaygateTestService has been successfully installed.
+Creating EventLog source PaygateTestService in log Application...
+Committing assembly 'C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Files\File\PaygateTestService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Files\File\PaygateTestService.InstallLog
+   assemblypath = C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Files\File\PaygateTestService.exe
+Uninstalling assembly 'C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Files\File\PaygateTestService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Files\File\PaygateTestService.InstallLog
+   assemblypath = C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Files\File\PaygateTestService.exe
+Removing EventLog source PaygateTestService.
+Service PaygateTestService is being removed from the system...
+Service PaygateTestService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Files\File\PaygateTestService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Files\File\PaygateTestService.InstallLog
+   assemblypath = C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Files\File\PaygateTestService.exe
+Removing EventLog source PaygateTestService.
+Service PaygateTestService is being removed from the system...
+Service PaygateTestService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Files\File\PaygateTestService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Files\File\PaygateTestService.InstallLog
+   assemblypath = C:\Users\UCK\source\repos\FineksusInternshipCs\FineksusInternshipCs\Files\File\PaygateTestService.exe
+Removing EventLog source PaygateTestService.
+Service PaygateTestService is being removed from the system...
+Service PaygateTestService was successfully removed from the system.
